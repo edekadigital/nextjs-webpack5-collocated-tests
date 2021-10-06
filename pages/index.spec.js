@@ -1,4 +1,4 @@
-//import IndexComponent from "./index";
+// import IndexComponent from "./index.page";
 
 describe("pages/index", () => {
   it("pseudo test", () => {

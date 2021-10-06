@@ -1,4 +1,6 @@
 module.exports = {
+  pageExtensions: ["page.js", "api.js"],
+
   webpack: (config, { webpack }) => {
     config.plugins.push(
       new webpack.IgnorePlugin({
